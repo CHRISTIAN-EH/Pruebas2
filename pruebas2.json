@@ -1,0 +1,32 @@
+{
+  "Nombre del Superhéroe" : " Superhéroe SUPERMAN " ,
+  "Ciudad natal" : " Ciudad Metropolitana " ,
+  "Año" : 2000 ,
+  "Base secreta" : "Torre Kalel" ,
+  "activo" : cierto ,
+  "miembros" : [
+    {
+      "nombre" : " Hombre Araña " ,
+      "edad" : 20 ,
+      "identidadsecreta" : "Peter Parker " ,
+      "poderes" : [
+        " Resistencia Fuerte " ,
+        " Sentido Aracnido " ,
+        " Teleraña "
+      ]
+    },
+    {
+      "nombre" : " Iron Man " ,
+      "edad" : 42 ,
+      "identidadsecreta" : " Tony Stark " ,
+      "poderes" : [
+        " Armadura Resistente " ,
+        " Genio Millonario " ,
+        " Lider de Los Vengadores "
+      ]
+    },
+    {
+      "nombre" : " Pantera Negra " ,
+      "edad" : 34 ,
+      "Identidad Secreta" : " T`challa " ,
+      "poderes" : [
